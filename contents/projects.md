@@ -2,9 +2,9 @@
 **Supervisors:** Sifan Liu PhD, Prof. Peter Bühlmann  
 *March 2025 – September 2025*  
 **Tools:** Python, Bash, Slurm  
-[🔗 GitHub Repository](https://github.com/PaulSchlossmacher/power-sim-carving)  
-- Semester project on the topic of *Post-selection inference for high-dimensional data*  
-- Developing a method for variable selection for highly correlated data in sparse linear models.
+- Developing a method for variable selection in sparse linear models.
+
+---
 
 
 ### **Semester Project**  

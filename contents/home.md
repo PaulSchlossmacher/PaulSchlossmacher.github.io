@@ -12,11 +12,11 @@ M.Sc., Statistics, ETH Zürich, 2023—2025 (expected).\
 B.Sc., Statistics and Mathematics of Economics, Vienna University of Technology, 2019—2022.
 
 #### Research Interests
-High-dimensional data, selective inference.
+High-dimensional data, Selective inference.
 
 #### Links
 
 <i class="bi bi-geo-alt-fill"></i> Zürich, Switzerland  
-<i class="bi bi-envelope-fill"></i> [paul.schlossmacher@gmail.com](mailto:paul.schlossmacher@gmail.com)  
 <i class="bi bi-flag-fill"></i> Austria & Spain  
 <i class="bi bi-github"></i> [PaulSchlossmacher](https://github.com/PaulSchlossmacher)
+<i class="bi bi-linkedin"></i> <a href="https://www.linkedin.com/in/paul-schlossmacher-095bb7186/">paul-schlossmacher</a>
