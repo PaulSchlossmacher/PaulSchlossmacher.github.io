@@ -1,7 +1,3 @@
-
-
-[![PaulSchlossmacher](https://img.shields.io/badge/PaulSchlossmacher-github-blue?logo=github)](https://github.com/PaulSchlossmacher)
-
 I am currently pursuing a Master's degree in Statistics at ETH Zürich, which I am expecting to finish in September 2025.
 
 #### Email
