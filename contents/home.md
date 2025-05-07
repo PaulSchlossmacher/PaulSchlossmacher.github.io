@@ -1,16 +1,22 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![PaulSchlossmacher](https://img.shields.io/badge/PaulSchlossmacher-github-blue?logo=github)](https://github.com/PaulSchlossmacher)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Master's degree in Statistics at ETH Zürich.
 
 #### Email
-sli[at]cumt.edu.cn
+paul.schlossmacher[at]gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Sc., Statistics, ETH Zürich, 2023—2025 (expected).\
+B.Sc., Statistics and Mathematics of Economics, Vienna University of Technology, 2019—2022.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+High-dimensional data, selective inference.
 
+#### Links
+
+<i class="bi bi-geo-alt-fill"></i> Zürich, Switzerland  
+<i class="bi bi-envelope-fill"></i> [paul.schlossmacher@gmail.com](mailto:paul.schlossmacher@gmail.com)  
+<i class="bi bi-flag-fill"></i> Austria & Spain  
+<i class="bi bi-github"></i> [PaulSchlossmacher](https://github.com/PaulSchlossmacher)
