@@ -8,7 +8,7 @@
 
 
 ### **Semester Project**  
-**Supervisor:** Prof. Peter Bühlmann  
+**Supervisors:** Christoph Schultheiss PhD, Prof. Peter Bühlmann  
 *February 2024 – May 2024*  
 **Tools:** R, glmnet, foreach  
 <i class="bi bi-github"></i> <a href="https://github.com/PaulSchlossmacher/power-sim-carving">GitHub Repository</a> 
