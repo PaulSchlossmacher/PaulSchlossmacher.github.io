@@ -1,4 +1,4 @@
-I am a PhD student in Statistics, supervised by Johanna Ziegel. My research interests include calibration of forecasts and selective inference for high-dimensional data.
+I am a PhD student in Statistics, supervised by Johanna Ziegel at ETH Zürich. My research interests include calibration of forecasts and selective inference for high-dimensional data.
 
 <!-- 
 #### Research Interests
