@@ -4,7 +4,7 @@
 - We are currently working on a project on the calibration of distributional forecasts.
 
 ### **Master's thesis**  
-**Supervisors:** Sifan Liu PhD, Prof. Peter Bühlmann  
+**Supervisors:** Prof. Sifan Liu, Prof. Peter Bühlmann  
 *March 2025 – September 2025*  
 **Tools:** Python, Bash, Slurm  
 - Developed a method for variable selection in sparse linear models. We are currently still working on the project to move it towards publication.
