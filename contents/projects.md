@@ -12,6 +12,16 @@
 ---
 
 
+### **Research Assistant, part-time**  
+**Supervisor:** Kerstin N. Vokinger  
+*May 2024 – September 2025*  
+**Tools:** R, Python
+- Work at the *Chair for Regulation in Law, Medicine and Technology* (ETH Zürich and University of Zürich)  
+- Data analysis using *R* and *Python* for research in the areas of clinical trials and the availability of drugs
+- Together with my supervisors, we published a paper in 'Clinical Pharmacology & Therapeutics' on how representative certain clinical trials where for the population intended to be treated, which can be found <a href="https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.70221">here</a>.
+
+---
+
 ### **Semester Project**  
 **Supervisors:** Christoph Schultheiss PhD, Prof. Peter Bühlmann  
 *February 2024 – May 2024*  
@@ -21,16 +31,6 @@
 - Compared a newly introduced *carving* estimator to established estimators. Identified theoretical limitations of the new estimator and demonstrated through simulations that the existing estimators achieved higher power while controlling the family-wise error rate.
 
 ---
-
-### **Research Assistant, part-time**  
-**Supervisor:** Kerstin N. Vokinger  
-*May 2024 – September 2025*  
-**Tools:** R, Python
-- Work at the *Chair for Regulation in Law, Medicine and Technology* (ETH Zürich and University of Zürich)  
-- Data analysis using *R* and *Python* for research in the areas of clinical trials and the availability of drugs
-
----
-
 
 ### **Graduate Researcher**  
 *March 2024 – May 2024*  
