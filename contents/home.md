@@ -1,11 +1,14 @@
-I am currently pursuing a Master's degree in Statistics at ETH Zürich, which I am expecting to finish in September 2025.
+I am a PhD students in Statistics, supervised by Johanna Ziegel. My research interests include calibration of forecasts and selective inference for high-dimensional data.
 
-#### Education
-M.Sc., Statistics, ETH Zürich, 2023—2025 (expected).\
-B.Sc., Statistics and Mathematics of Economics, Vienna University of Technology, 2019—2022.
-
+<!-- 
 #### Research Interests
 High-dimensional data, Selective inference.
+-->
+
+
+#### Education
+M.Sc., Statistics, ETH Zürich, 2023—2025.\
+B.Sc., Statistics and Mathematics of Economics, Vienna University of Technology, 2019—2022.
 
 #### Links
 
